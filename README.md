@@ -1,4 +1,4 @@
-First React App Project
-> Clone the repo
-> Run npm install
+First React App Project <br/>
+> Clone the repo  <br/>
+> Run npm install  <br/>
 > Run npm start
